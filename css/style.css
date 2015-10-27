@@ -1,0 +1,13 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+#launch {
+    font-size: 120%;
+    font-weight: bold;
+    text-decoration: none;
+}
